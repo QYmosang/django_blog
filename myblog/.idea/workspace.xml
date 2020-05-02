@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a2b688b-600f-46f6-a057-12ceca345191" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/templates/blog/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog/settings-backup/local.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog/settings-backup/production.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/settings-backup/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/wsgi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -40,15 +46,15 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Django\myblog\blog" />
-      <recent name="D:\Django\myblog" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Django\myblog\blog\static\blog\img" />
       <recent name="D:\Django\myblog\blog\static\blog" />
       <recent name="D:\Django\myblog\templates\blog" />
       <recent name="D:\Django\myblog\comments" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Django\myblog\blog" />
+      <recent name="D:\Django\myblog" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -103,11 +109,23 @@
       <workItem from="1588256179186" duration="7301000" />
       <workItem from="1588294981533" duration="25231000" />
       <workItem from="1588385844796" duration="2627000" />
-      <workItem from="1588410704963" duration="29000" />
+      <workItem from="1588410704963" duration="4980000" />
     </task>
+    <task id="LOCAL-00001" summary="about页面新增一行“to be continued”">
+      <created>1588410928461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588410928461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="about页面新增一行“to be continued”" />
+    <option name="LAST_COMMIT_MESSAGE" value="about页面新增一行“to be continued”" />
   </component>
 </project>
